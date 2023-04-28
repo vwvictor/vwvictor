@@ -8,4 +8,4 @@
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vwvictor&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwvictor)](https://github.com/vwvictor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwvictor)](https://github.com/anuraghazra/github-readme-stats)
